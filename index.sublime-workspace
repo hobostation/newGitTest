@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robi/local-dev/newGitTest/index.html",
+		"/Users/robi/mysite/index.html",
+		"/Users/robi/Downloads/ads.txt",
+		"/Users/robi/Local Sites/pioden/app/public/wp-content/themes/Pioden/page-templates/cam-website-page.php",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/css/c05.css",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/example.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/node-value.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/js/query-selector.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/query-selector.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/get-elements-by-tag-name.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c05/get-element-by-id.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c04/comparison-operator.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c04/css/c04.css",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c04/switch-statement.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c04/js/switch-statement.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c04/js/example.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/css/c03.css",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/js/adding-and-removing-properties.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/js/example.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/example.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/math-object.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/js/math-object.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/adding-and-removing-properties.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/multiple-objects.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/js/object-literal.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/object-literal.html",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c01/js/add-content.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c02/js/string-variable.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c02/js/numeric-variable.js",
+		"/Users/robi/learning/JavaScript and JQuery Interactive Front-End Web Development/javascript-and-jquery-book-code-0915/c03/js/multiple-objects.js",
+		"/Applications/MAMP/htdocs/endless/composer.json",
+		"/Applications/MAMP/htdocs/endless/.editorconfig",
+		"/Applications/MAMP/htdocs/endless/.htaccess",
+		"/Applications/MAMP/htdocs/endless/.gitignore",
+		"/Applications/MAMP/htdocs/endless/index.php",
+		"/Applications/MAMP/htdocs/endless/README.md",
+		"/Users/robi/Local Sites/meitomos/app/public/wp-config.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/.htaccess",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/snippets/snipcart.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/templates/about.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/templates/home.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/pages/about.yml",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/snippets/products.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/config/config.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/templates/product.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/pages/product.yml",
+		"/Applications/MAMP/htdocs/snipcartDemo/content/site.txt",
+		"/Applications/MAMP/htdocs/snipcartDemo/content/3_about/about.txt",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/site.yml",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/product.yaml",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/snippets/footer.php",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/sections/albums.yml",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/sections/notes.yml",
+		"/Applications/MAMP/htdocs/snipcartDemo/site/blueprints/pages/album.yml",
+		"/Applications/MAMP/htdocs/snipcartDemo/.editorconfig",
+		"/Applications/MAMP/htdocs/snipcartDemo/.gitignore",
+		"/Users/robi/Local Sites/meitomos/conf/php/7.0.3/php.ini",
+		"/Users/robi/Downloads/wordpress/wp-content/themes/index.php",
+		"/Applications/MAMP/htdocs/kirby/vendor/filp/whoops/src/Whoops/Exception/Frame.php",
+		"/Applications/MAMP/htdocs/.editorconfig",
+		"/Applications/MAMP/htdocs/.gitignore",
+		"/Applications/MAMP/htdocs/kirby/src/Http/Server.php",
+		"/Applications/MAMP/htdocs/kirby/config/api/routes/site.php",
+		"/Applications/MAMP/htdocs/kirby/config/api/routes/system.php",
+		"/Users/robi/Desktop/index.html",
+		"/Users/robi/kirby-learning/starterkit-master/composer.json",
+		"/Users/robi/damatt-testing/damtt-wordpress/wp-config.php",
+		"/Users/robi/damatt-testing/backup_info_1902141424.xml(1)/databases/damattp1_wordpress_6_3/backup_1902141424",
+		"/Users/robi/Local Sites/damatt/app/public/wp-config.php",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/wp-pro-real-estate-7-child/nice-select.css",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/realestate-7/template-advanced-search.php",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/damatt-property-child/nice-select.css",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/realestate-7/index.php",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/realestate-7/searchform.php",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/realestate-7/template-home.php",
+		"/Users/robi/Local Sites/damattproperty/app/public/wp-content/themes/realestate-7/search-listings.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/template-edit-listing.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/single-listings.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/admin/ReduxFramework/theme-options/re7-config.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/includes/single-listing-rental-info.php",
+		"/Users/robi/projects/CAM-website/wp-content/themes/camradioblank/page-about.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/includes/login-register-modal.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/header.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/wp-pro-real-estate-7-child/theme-functions.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/template-home.php",
+		"/Users/robi/projects/damatt-property/testing-stuff/LongDropdowns/css/style.css",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/wp-pro-real-estate-7-child/style.css",
+		"/Users/robi/Downloads/client_secret_991621244800-h8ebt6p0u79iuh3lno3ja2v0i01l8csq.apps.googleusercontent.com.json",
+		"/Users/robi/Local Sites/bob/app/public/wp-login.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/admin/ct-social/ct-social.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/includes/single-listing-sub-listings.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-admin/post.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/single.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/functions.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/admin/ReduxFramework/theme-options/re7-config.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/single-listings.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/template-edit-listing.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/plugins/redux-framework/class.redux-plugin.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/plugins/redux-framework/ReduxCore/framework.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/plugins/redux-framework/ReduxCore/core/dashboard.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/plugins/redux-framework/ReduxCore/core/required.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/plugins/redux-framework/wpml-config.xml",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/includes/home-listings-count.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-admin/admin.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-admin/admin-functions.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/includes/single-listing-propinfo.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/template-view-listings.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/wp-pro-real-estate-7-child/style.css",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/index.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/template-home.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/admin/theme-functions.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/includes/login-register-modal.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/includes/single-listing-home.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/admin/theme-functions.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/wp-pro-real-estate-7-child/search-listings.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/wp-pro-real-estate-7-child/template-edit-listing.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/realestate-7/index.php",
+		"/Users/robi/Local Sites/bob/app/public/wp-content/themes/wp-pro-real-estate-7-child/functions.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/admin/plugins/register.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/js/ct.account.js",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/template-contact-no-form.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/admin/theme-hooks.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/includes/widgets/ct-widget-listingssocial.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/includes/post-social.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/realestate-7/template-full-width.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/wp-pro-real-estate-7-child/functions.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/themes/wp-pro-real-estate-7-child/template-sitemap-damatt.php",
+		"/Users/robi/Local Sites/damatt/app/public/wp-content/plugins/wp-pro-real-estate-7-xml-csv-property-listings-import/wp-pro-realestate-7-add-on.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
